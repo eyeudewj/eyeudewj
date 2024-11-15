@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eyeudewj
-- 👀 I’m interested in javascript
+- 👀 I’m interested in solidity and javascript
 
 <!---
 eyeudewj/eyeudewj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
